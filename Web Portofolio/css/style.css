@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .hero {
+    background-color: #4e4e4e;
+    color: #fff;
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  .hero p {
+    font-size: 1.2em;
+  }
+  
+  .about-me, .projects, .contact {
+    padding: 60px 0;
+  }
+  
+  h2 {
+    color: #4e4e4e;
+  }
+  
+  .project-item {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-item h3 {
+    color: #4e4e4e;
+  }
+  
+  a {
+    color: #4e4e4e;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .contact ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact li {
+    margin-bottom: 10px;
+  }
+  
+  .contact a {
+    color: #4e4e4e;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
